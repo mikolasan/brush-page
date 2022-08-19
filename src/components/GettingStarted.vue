@@ -1,9 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>
-      
-    </p>
+    <img alt="example result" src="../assets/contribution-activity.png">
     <h3>Choose a word</h3>
     <ul>
       <li>not more than 10 symbols to fit it on one screen</li>
@@ -50,5 +48,8 @@ li {
 }
 a {
   color: #42b983;
+}
+img {
+  max-height: unset;
 }
 </style>

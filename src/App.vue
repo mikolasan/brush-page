@@ -1,5 +1,5 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <img alt="Activity Brush logo" src="./assets/logo.png">
   <GettingStarted msg="Welcome to GutHub Brush!"/>
   <footer>
     <h3>Guthub Brush</h3>
